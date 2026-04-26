@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="MBG FC — Muslim Bugar Football Community. Fun Aja Yang Penting Keringetan.">
 
-    <link rel="icon" href="{{ asset('assets/images/logo.png') }}">
+    <link rel="icon" href="{{ asset('images/logo.png') }}">
     <title>@yield('title', 'MBG FC — Muslim Bugar Football Community')</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
