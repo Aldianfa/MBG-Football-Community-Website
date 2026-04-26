@@ -16,7 +16,7 @@
             <p class="hero-subtitle">"Fun Aja Yang Penting Keringetan"</p>
 
             <div class="hero-actions">
-                <a href="#join" class="btn btn-primary">
+                <a href="https://wa.me/6289505875530?text=Assalamualaikum%20MBG%20FC%2C%20saya%20ingin%20join%20komunitas!" class="btn btn-primary">
                     Join Sekarang
                     <span class="material-symbols-outlined">arrow_forward</span>
                 </a>
