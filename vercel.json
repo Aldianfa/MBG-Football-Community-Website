@@ -23,14 +23,6 @@
             "dest": "api/index.php"
         }
         
-    ],
-    "env": {
-        "APP_URL": "https://mbg-football-community.vercel.app",
-        "ASSET_URL": "https://mbg-football-community.vercel.app",
-        "APP_ENV": "production",
-        "APP_DEBUG": "true",
-        "LOG_CHANNEL": "stderr",
-        "CACHE_DRIVER": "array",
-        "SESSION_DRIVER": "cookie"
-    }
+    ]
+    
 }
