@@ -9,8 +9,8 @@
             </h2>
             <p class="section-desc">
                 MBG FC adalah wadah bagi muslim untuk berolahraga, menjaga kesehatan, sekaligus
-                mempererat tali persaudaraan dalam suasana yang menyenangkan dan suportif.
-                Berdiri sejak 2018, kami telah hadir di lebih dari 5 kota besar Indonesia.
+                mempererat tali persaudaraan dalam suasana yang menyenangkan dan suportif khususnya di area Malang.
+                Berdiri sejak 2017, dan saat ini sudah memiliki 230 member.
             </p>
         </div>
 

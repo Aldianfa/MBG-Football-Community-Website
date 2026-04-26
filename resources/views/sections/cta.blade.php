@@ -14,7 +14,7 @@
             </p>
 
             <div class="cta-actions">
-                <a href="https://wa.me/6281234567890?text=Halo%20MBG%20FC%2C%20saya%20ingin%20join%20komunitas!"
+                <a href="https://wa.me/6289505875530?text=Assalamualaikum%20MBG%20FC%2C%20saya%20ingin%20join%20komunitas!"
                     target="_blank" rel="noopener" class="btn btn-white">
                     <span class="material-symbols-outlined">chat</span>
                     Join via WhatsApp
